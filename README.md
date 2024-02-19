@@ -6,9 +6,8 @@ The goal of this project is to clearly demonstrate the functionality of the most
 4. A star Search
 5. Greedy Best First Search
 
-This tool was also used to explain search algorithm concepts to younger computer science students.
-   
 <br><br>
+This tool was also used to explain search algorithm concepts to younger computer science students. 
 <br><br>The main focus of the peroject is to visualize the algotihms working, trying to be as clear as possible. The possibility to move the starting and ending points, as well as the obstacles, after the search ended is useful to see the different reasoning done by different algoritmhs.
 There is also the possibility to automatically generate a random maze and to find the best path in that specific situation.
 <br><br>
