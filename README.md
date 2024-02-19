@@ -7,7 +7,7 @@ The goal of this project is to clearly demonstrate the functionality of the most
 5. Greedy Best First Search
 
 <br><br>
-This tool was also used to explain search algorithm concepts to younger computer science students. 
+This tool was also used to explain search algorithm concepts to younger computer science students (the visualization is done with the PyGame library). 
 <br><br>The main focus of the peroject is to visualize the algotihms working, trying to be as clear as possible. The possibility to move the starting and ending points, as well as the obstacles, after the search ended is useful to see the different reasoning done by different algoritmhs.
 There is also the possibility to automatically generate a random maze and to find the best path in that specific situation.
 <br><br>
