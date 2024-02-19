@@ -5,8 +5,11 @@ The goal of this project is to clearly demonstrate the functionality of the most
 3. Uniform Cost Search
 4. A star Search
 5. Greedy Best First Search
+
+This tool was also used to explain search algorithm concepts to younger computer science students.
    
 <br><br>
-<br><br>The main focus of the peroject is to visualize the algotihms working, trying to be as clear as possible. The possibility to move the starting and ending points, as well as the obstacles, after the search ended is useful to see the different reasoning done by different algoritmhs.<br><br>
-There is also the possibility to automatically generate a random maze and to find the best path in that specific situation
-I have also decided to implement a min heap for the priority queue from scratch so that the project would be completely customizable for my needs, specifically to visualize the algorithms in the best possible way.
+<br><br>The main focus of the peroject is to visualize the algotihms working, trying to be as clear as possible. The possibility to move the starting and ending points, as well as the obstacles, after the search ended is useful to see the different reasoning done by different algoritmhs.
+There is also the possibility to automatically generate a random maze and to find the best path in that specific situation.
+<br><br>
+I decided to implement a min heap for the priority queue from scratch so that the project would be completely customizable for my needs, specifically to visualize the algorithms in the best possible way.
