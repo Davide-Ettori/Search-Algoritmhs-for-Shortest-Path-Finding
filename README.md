@@ -13,6 +13,9 @@ There is also the possibility to automatically generate a random maze and to fin
 <br><br>
 I decided to implement a min heap for the priority queue from scratch so that the project would be completely customizable for my needs, specifically to visualize the algorithms in the best possible way.
 <br><br>
+Here you can see an example on how to use this tool<br>
 
-https://github.com/Davide-Ettori/Search-Algoritmhs-for-Shortest-Path-Finding/assets/52358285/8976f7d9-de34-4fb6-b654-a6f526c1aad9
+
+
+https://github.com/Davide-Ettori/Search-Algoritmhs-for-Shortest-Path-Finding/assets/52358285/8ac4a6b0-dd1c-4bdf-a6dd-c2f08193432d
 
