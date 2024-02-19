@@ -12,3 +12,7 @@ This tool was also used to explain search algorithm concepts to younger computer
 There is also the possibility to automatically generate a random maze and to find the best path in that specific situation.
 <br><br>
 I decided to implement a min heap for the priority queue from scratch so that the project would be completely customizable for my needs, specifically to visualize the algorithms in the best possible way.
+<br><br>
+
+https://github.com/Davide-Ettori/Search-Algoritmhs-for-Shortest-Path-Finding/assets/52358285/8976f7d9-de34-4fb6-b654-a6f526c1aad9
+
